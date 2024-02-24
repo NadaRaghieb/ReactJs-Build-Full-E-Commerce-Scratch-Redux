@@ -1,15 +1,15 @@
-import React,{useEffect} from 'react'
+// import React,{useEffect} from 'react'
 
-const UseEff = () => {
+// const UseEff = () => {
 
-    useEffect(()=>{
-console.log('hello')
-    },[])
-  return (
-    <div>
-      eve
-    </div>
-  )
-}
+//     useEffect(()=>{
+// console.log('hello')
+//     },[])
+//   return (
+//     <div>
+//       eve
+//     </div>
+//   )
+// }
 
-export default UseEff
+// export default UseEff
